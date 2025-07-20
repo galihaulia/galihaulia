@@ -56,4 +56,4 @@
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/galihAulia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/galihauliaalhakim)
